@@ -1,0 +1,14 @@
+{
+  "name": "dirorg",
+  "version": "4.0.0",
+  "description": "Dirorg is a CLI to organize your messy directories into separate folders according to the file type",
+  "bin": {
+    "dirorg": "./main.js"
+  },
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashima Malhotra",
+  "license": "ISC"
+}
